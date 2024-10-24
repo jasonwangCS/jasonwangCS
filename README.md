@@ -4,9 +4,8 @@
 
 - <b>Unity Game Apps + C# (Official Unity Certified User Programmer) </b>
   - [Adventure Game (Free Roam Survival App)](https://github.com/jasonwangCS/AdventureUnityGame/tree/main)
-  - [Energy Transfer Game](https://github.com/jasonwangCS/EnergyTransferGame/tree/main/Assets)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Energy Transfer Game](https://github.com/jasonwangCS/EnergyTransferGame/tree/main/)
+  - [Super Smash Bros Recreation (Mainly Camera Code + Movement/Physics](https://github.com/jasonwangCS/SuperSmashBrosUnity)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>School Manager Server App (SQL, Java, React, NodeJS, Azure, and Machine Learning Components)</b>
