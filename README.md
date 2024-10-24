@@ -8,14 +8,11 @@
   - [Super Smash Bros Recreation (Mainly Camera Code + Movement/Physics](https://github.com/jasonwangCS/SuperSmashBrosUnity)
 - <b>Data Structures and Algorithms Practice (Java)</b>
   - [Praciting DS & Algos in Java](https://github.com/jasonwangCS/DataStructureCode/tree/main)
-- <b>School Manager Server App (SQL, Java, React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [School Manager Server App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- <b>Java (SQL, Java, File IO, Server, Web Application, Java Swing, Java AWT)</b>
+  - [School Manager Server App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Wumpus App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>USACO Training Problems (Java)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Practice Problems Code](https://github.com/joshmadakor1/EncrypterPOC)
 
 <h2> 🤳 Connect with me:</h2>
 
