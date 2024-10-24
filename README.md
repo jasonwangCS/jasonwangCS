@@ -6,8 +6,8 @@
   - [Adventure Game (Free Roam Survival App)](https://github.com/jasonwangCS/AdventureUnityGame/tree/main)
   - [Energy Transfer Game](https://github.com/jasonwangCS/EnergyTransferGame/tree/main/)
   - [Super Smash Bros Recreation (Mainly Camera Code + Movement/Physics](https://github.com/jasonwangCS/SuperSmashBrosUnity)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Structures and Algorithms Practice (Java)</b>
+  - [Praciting DS & Algos in Java](https://github.com/jasonwangCS/DataStructureCode/tree/main)
 - <b>School Manager Server App (SQL, Java, React, NodeJS, Azure, and Machine Learning Components)</b>
   - [School Manager Server App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>USACO Training Problems (Java)</b>
