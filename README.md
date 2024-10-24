@@ -4,7 +4,7 @@
 
 - <b>Unity Game Apps + C# (Official Unity Certified User Programmer) </b>
   - [Adventure Game (Free Roam Survival App)](https://github.com/jasonwangCS/AdventureUnityGame/tree/main)
-  - [Energy Transfer Game](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Energy Transfer Game](https://github.com/jasonwangCS/EnergyTransferGame/tree/main/Assets)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
