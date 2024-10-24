@@ -3,7 +3,7 @@
 <h2>👨‍💻 Computer Science Projects:</h2>
 
 - <b>Unity Game Apps + C# (Official Unity Certified User Programmer) </b>
-  - [Adventure Game (Free Roam Survival App)]([https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/jasonwangCS/AdventureUnityGame/tree/main))
+  - [Adventure Game (Free Roam Survival App)](https://github.com/jasonwangCS/AdventureUnityGame/tree/main)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
