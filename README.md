@@ -10,8 +10,8 @@
   - [Implementing DS & Algos in Java](https://github.com/jasonwangCS/DataStructureCode/tree/main)
 - <b>Java (SQL, Java, File IO, Server, Web Application, Java Swing, Java AWT)</b>
   - [School Manager Server App](https://github.com/jasonwangCS/SchoolManagerServer)
-  - [Wumpus App](https://github.com/jasonwangCS/WumpusApp)
-  - [Chatroom App](https://github.com/jasonwangCS/ChatroomApp)
+  - [Wumpus App (Java Swing + AWT)](https://github.com/jasonwangCS/WumpusApp)
+  - [Chatroom App (SQL + Server Networking)](https://github.com/jasonwangCS/ChatroomApp)
 
 - <b>USACO Training Problems (Java)</b>
   - [Practice Problems Code]()
