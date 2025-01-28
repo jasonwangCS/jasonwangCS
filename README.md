@@ -16,6 +16,6 @@
 - <b>USACO Training Problems (Java)</b>
   - [Practice Problems Code](https://github.com/jasonwangCS/USACO)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me: [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/txsjw/)
+</h2>
 
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/txsjw/)
