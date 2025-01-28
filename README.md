@@ -6,8 +6,8 @@
   - [Adventure Game (Free Roam Survival App)](https://github.com/jasonwangCS/AdventureUnityGame/tree/main)
   - [Energy Transfer Game](https://github.com/jasonwangCS/EnergyTransferGame/tree/main/)
   - [Super Smash Bros Recreation (Mainly Camera Code + Movement/Physics](https://github.com/jasonwangCS/SuperSmashBrosUnity)
-- <b>Data Structures and Algorithms Practice (Java)</b>
-  - [Praciting DS & Algos in Java](https://github.com/jasonwangCS/DataStructureCode/tree/main)
+- <b>Data Structures and Algorithms Work (Java)</b>
+  - [Implementing DS & Algos in Java](https://github.com/jasonwangCS/DataStructureCode/tree/main)
 - <b>Java (SQL, Java, File IO, Server, Web Application, Java Swing, Java AWT)</b>
   - [School Manager Server App]()
   - [Wumpus App]()
