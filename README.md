@@ -9,7 +9,7 @@
 - <b>Data Structures and Algorithms Work (Java)</b>
   - [Implementing DS & Algos in Java](https://github.com/jasonwangCS/DataStructureCode/tree/main)
 - <b>Java (SQL, Java, File IO, Server, Web Application, Java Swing, Java AWT)</b>
-  - [School Manager Server App]()
+  - [School Manager Server App](https://github.com/jasonwangCS/SchoolManagerServer)
   - [Wumpus App]()
 - <b>USACO Training Problems (Java)</b>
   - [Practice Problems Code]()
