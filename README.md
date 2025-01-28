@@ -2,19 +2,18 @@
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
+- <b>Java (SQL, Java, File IO, Server, Web Application, Java Swing, Java AWT)</b>
+  - [School Manager Server App](https://github.com/jasonwangCS/SchoolManagerServer)
+  - [Wumpus App (Java Swing + AWT)](https://github.com/jasonwangCS/WumpusApp)
+  - [Chatroom App (SQL + Server Networking)](https://github.com/jasonwangCS/ChatroomApp)
+- <b>USACO Training Problems (Java)</b>
+  - [Practice Problems Code](https://github.com/jasonwangCS/USACO)
 - <b>Unity Game Apps + C# (Official Unity Certified User Programmer) </b>
   - [Adventure Game (Free Roam Survival App)](https://github.com/jasonwangCS/AdventureUnityGame/tree/main)
   - [Energy Transfer Game](https://github.com/jasonwangCS/EnergyTransferGame/tree/main/)
   - [Super Smash Bros Recreation (Mainly Camera Code + Movement/Physics](https://github.com/jasonwangCS/SuperSmashBrosUnity)
 - <b>Data Structures and Algorithms Work (Java)</b>
   - [Implementing DS & Algos in Java](https://github.com/jasonwangCS/DataStructureCode/tree/main)
-- <b>Java (SQL, Java, File IO, Server, Web Application, Java Swing, Java AWT)</b>
-  - [School Manager Server App](https://github.com/jasonwangCS/SchoolManagerServer)
-  - [Wumpus App (Java Swing + AWT)](https://github.com/jasonwangCS/WumpusApp)
-  - [Chatroom App (SQL + Server Networking)](https://github.com/jasonwangCS/ChatroomApp)
-
-- <b>USACO Training Problems (Java)</b>
-  - [Practice Problems Code](https://github.com/jasonwangCS/USACO)
 
 <h2> 🤳 Connect with me:</h2>
 
