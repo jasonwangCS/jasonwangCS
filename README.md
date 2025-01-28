@@ -14,7 +14,7 @@
   - [Chatroom App (SQL + Server Networking)](https://github.com/jasonwangCS/ChatroomApp)
 
 - <b>USACO Training Problems (Java)</b>
-  - [Practice Problems Code]()
+  - [Practice Problems Code](https://github.com/jasonwangCS/USACO)
 
 <h2> 🤳 Connect with me:</h2>
 
